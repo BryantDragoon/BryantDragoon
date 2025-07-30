@@ -1,4 +1,10 @@
-## Hi there 👋
+
+## Hi there 👋, I’m Bryant!
+
+👨🏻‍🎓 I'm a Mechatronics Engineer with a Master’s degree in Information Science.\
+✨ I enjoy bringing together engineering, computing, and data to solve complex problems through a multidisciplinary and technology-driven approach.\
+👨🏻‍💻 I'm most comfortable working with data—analyzing it, generating insights, and creating visualizations. However, I also enjoy exploring new areas such as artificial intelligence and game development.\
+💼 You can also find me on [LinkedIn](https://www.linkedin.com/in/pedro-bryant-ibarra-tovar-790963326/).
 
 <!--
 **BryantDragoon/BryantDragoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
